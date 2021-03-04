@@ -6,7 +6,7 @@
 
 ## Results
 ##### The website data can now be filtered based on 5 criteria of date, city, state, country, and shape of the object. This way, a user can narrow down their search. A user may chose to apply 1 or more criteria to their search.
-![Filters](static\images\filters.PNG)
+![Filters](resources\filters.PNG)
 
 ## Summary
 ##### Though the new design has improved the funtionality and efficiency of the website, there could still be some improvements. For example, 
